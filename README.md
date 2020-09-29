@@ -10,7 +10,7 @@ Making the mount for the caster in Onshape
 
 ## Reflection
 
-I struggled with the extrusion because I did my mount a little different than the instruction. I used the same documen as my base and just added on to it. I tried extruding the sketch, but I ended up only extriding the walls and not the middle of my mount. I figured it out by retracing my steps and found out what I did wrong. I am 2/3 of the way done with this assignment of making the caster.
+I struggled with the extrusion because I did my mount a little different than the instruction. I used the same document as my base and just added on to it. I tried extruding the sketch, but I ended up only extruding the walls and not the middle of my mount. I figured it out by retracing my steps and found out what I did wrong. I am 2/3 of the way done with this assignment of making the caster.
 
 ## Onshape Document Link
 
